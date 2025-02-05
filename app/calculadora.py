@@ -8,5 +8,6 @@ class Calculadora:
     def multiplicacion(self, a, b):
         return a * b
 
-    def add(self, a, b):
-        return a + b
+    def division(self, a, b):
+        return a / b
+
